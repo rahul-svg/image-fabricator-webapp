@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #282c34;
+  padding: 1rem 2rem;
+  color: white;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: bold;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.user-info {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  font-weight: normal;
+  color: #ccc;
+}
